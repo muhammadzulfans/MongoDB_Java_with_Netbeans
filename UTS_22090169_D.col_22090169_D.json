@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "663b295d59aafd0d4fab6c25"
+  },
+  "nama": 1204000
+},
+{
+  "_id": {
+    "$oid": "663b295d59aafd0d4fab6c26"
+  },
+  "nama": "Printer Inkjet",
+  "harga": 1204000,
+  "tanggal": {
+    "$date": "2024-05-08T07:27:25.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663b295d59aafd0d4fab6c27"
+  },
+  "nama": "Printer Inkjet",
+  "harga": 1204000,
+  "kategori": "elektronik",
+  "tanggal": {
+    "$date": "2024-05-08T07:27:25.818Z"
+  }
+}]
